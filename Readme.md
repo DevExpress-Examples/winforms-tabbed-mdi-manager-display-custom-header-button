@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/WindowsFormsApplication32/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication32/Form1.vb))**
+* [ActiveFilesButtonClickEventArgs.cs](./CS/WindowsFormsApplication32/MyTabbedMdiManager/ActiveFilesButtonClickEventArgs.cs) (VB: [ActiveFilesButtonClickEventArgs.vb](./VB/WindowsFormsApplication32/MyTabbedMdiManager/ActiveFilesButtonClickEventArgs.vb))
+* [MySkinTabControlViewInfo.cs](./CS/WindowsFormsApplication32/MyTabbedMdiManager/MySkinTabControlViewInfo.cs) (VB: [MySkinTabControlViewInfo.vb](./VB/WindowsFormsApplication32/MyTabbedMdiManager/MySkinTabControlViewInfo.vb))
+* [MySkinTabHeaderViewInfo.cs](./CS/WindowsFormsApplication32/MyTabbedMdiManager/MySkinTabHeaderViewInfo.cs) (VB: [MySkinTabHeaderViewInfo.vb](./VB/WindowsFormsApplication32/MyTabbedMdiManager/MySkinTabHeaderViewInfo.vb))
+* [MySkinViewInfoRegistrator.cs](./CS/WindowsFormsApplication32/MyTabbedMdiManager/MySkinViewInfoRegistrator.cs) (VB: [MySkinViewInfoRegistrator.vb](./VB/WindowsFormsApplication32/MyTabbedMdiManager/MySkinViewInfoRegistrator.vb))
+* [MyTabbedMdiManager.cs](./CS/WindowsFormsApplication32/MyTabbedMdiManager/MyTabbedMdiManager.cs) (VB: [MyTabbedMdiManager.vb](./VB/WindowsFormsApplication32/MyTabbedMdiManager/MyTabbedMdiManager.vb))
+* [MyTabButtonsPanel.cs](./CS/WindowsFormsApplication32/MyTabbedMdiManager/MyTabButtonsPanel.cs) (VB: [MyTabButtonsPanel.vb](./VB/WindowsFormsApplication32/MyTabbedMdiManager/MyTabButtonsPanel.vb))
+<!-- default file list end -->
 # How to add a button showing MDI child windows list to the XtraTabbedMdiManager's header
 
 
