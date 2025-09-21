@@ -16,7 +16,7 @@ public Form1() {
 }
 ```
 
-![WinForms Tabbed MDI Manager - Display a custom button in the tab header panel](https://raw.githubusercontent.com/DevExpress-Examples/how-to-add-a-button-showing-mdi-child-windows-list-to-the-xtratabbedmdimanagers-header-e2797/13.1.4%2B/media/winforms-mdi-tabbed-ui.png)
+![WinForms Tabbed MDI Manager - Display a custom button in the tab header panel](./media/winforms-mdi-tabbed-ui.png)
 
 
 ## Files to Review
@@ -35,3 +35,4 @@ public Form1() {
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
