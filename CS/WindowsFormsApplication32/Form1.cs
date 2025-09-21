@@ -10,7 +10,7 @@ namespace WindowsFormsApplication32
 		public Form1()
 		{
 			InitializeComponent();
-            this.myTabbedMdiManager1.HeaderShowActiveFilesButton = true;
+            this.myTabbedMdiManager2.HeaderShowActiveFilesButton = true;
 		}
 
 		private void Form1_Load(object sender, EventArgs e)
@@ -26,7 +26,7 @@ namespace WindowsFormsApplication32
 			xtraForm1.Show();
 		}
 
-		private void myTabbedMdiManager1_PageAdded(object sender, MdiTabPageEventArgs e)
+		private void myTabbedMdiManager_PageAdded(object sender, MdiTabPageEventArgs e)
 		{
 			XtraTabbedMdiManager tabbedMdi = (XtraTabbedMdiManager)sender;
 			e.Page.ImageIndex = tabbedMdi.Pages.Count - 1;
