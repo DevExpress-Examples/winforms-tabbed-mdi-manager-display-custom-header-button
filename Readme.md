@@ -29,7 +29,7 @@ public Form1() {
 * [MyTabbedMdiManager.cs](./CS/WindowsFormsApplication32/MyTabbedMdiManager/MyTabbedMdiManager.cs) (VB: [MyTabbedMdiManager.vb](./VB/WindowsFormsApplication32/MyTabbedMdiManager/MyTabbedMdiManager.vb))
 * [MyTabButtonsPanel.cs](./CS/WindowsFormsApplication32/MyTabbedMdiManager/MyTabButtonsPanel.cs) (VB: [MyTabButtonsPanel.vb](./VB/WindowsFormsApplication32/MyTabbedMdiManager/MyTabButtonsPanel.vb))
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-tabbed-mdi-manager-display-custom-header-button&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-tabbed-mdi-manager-display-custom-header-button&~~~was_helpful=no)
 
